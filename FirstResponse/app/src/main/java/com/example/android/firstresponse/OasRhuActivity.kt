@@ -100,7 +100,7 @@ class OasRhuActivity : AppCompatActivity() {
         }
 
         buttonContact.setOnClickListener {
-            dialPhoneNumber("123-456-7890") // Replace with the actual phone number
+            dialPhoneNumber("09509007041") // Replace with the actual phone number
         }
     }
 

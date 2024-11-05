@@ -98,7 +98,7 @@ class DuranHospitalActivity : AppCompatActivity() {
         }
 
         buttonContact.setOnClickListener {
-            dialPhoneNumber("123-456-7890") // Replace with the actual phone number
+            dialPhoneNumber("09452962595") // Replace with the actual phone number
         }
     }
 

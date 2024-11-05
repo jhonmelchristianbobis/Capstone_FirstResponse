@@ -105,7 +105,7 @@ class PolanguiRhuActivity : AppCompatActivity() {
         }
 
         buttonContact.setOnClickListener {
-            dialPhoneNumber("123-456-7890") // Replace with the actual phone number
+            dialPhoneNumber("09152625978") // Replace with the actual phone number
         }
     }
 

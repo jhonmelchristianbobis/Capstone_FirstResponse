@@ -99,7 +99,7 @@ class LigaoRhuActivity : AppCompatActivity() {
         }
 
         buttonContact.setOnClickListener {
-            dialPhoneNumber("098-765-4321") // Replace with the actual phone number
+            dialPhoneNumber("09051985920") // Replace with the actual phone number
         }
     }
 
